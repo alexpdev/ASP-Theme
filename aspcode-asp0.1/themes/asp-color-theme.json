@@ -5,7 +5,8 @@
 	"colors": {
 		"activityBar.background": "#d80000",
 		"activityBar.border": "#68edff",
-		"activityBar.dropBackground": "#ff5e0069",
+		// "activityBar.dropBackground": "#ff5e0069",
+		"activityBar.activeBackground": "#ff0000",
 		"activityBar.foreground": "#00ff4c",
 		"activityBar.inactiveForeground": "#68edff",
 		"activityBarBadge.background": "#011804",
@@ -939,7 +940,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#2d1ad6"
+				"foreground": "#ff00ea"
 			}
 		},
 		{
