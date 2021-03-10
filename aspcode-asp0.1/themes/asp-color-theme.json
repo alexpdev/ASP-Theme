@@ -612,6 +612,16 @@
 			}
 		},
 		{
+			"name": "Cpp Includes",
+			"scope": ["keyword.control.directive.include.cpp",
+				"meta.preprocessor.include.cpp",
+				"source.cpp"],
+			"settings": {
+				"foreground": "#f7d876",
+				"fontStyle": "italic",
+			}
+		},
+		{
 			"name": "JSDoc-style type brackets",
 			"scope": [
 				"comment.block.documentation entity.name.type punctuation.definition.bracket"
@@ -746,7 +756,7 @@
 				"punctuation.definition.keyword"
 			],
 			"settings": {
-				"foreground": "#008cff"
+				"foreground": "#65b9fd"
 			}
 		},
 		{
@@ -940,7 +950,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#ff00ea"
+				"foreground": "#505aeb"
 			}
 		},
 		{
