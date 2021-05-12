@@ -1,11 +1,7 @@
 {
   "name": "mytheme",
   "version": "1.0.0",
-  "description": "vscode theme",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
+  "description": "custom vscode theme",
   "keywords": [
     "theme",
     "syntax",
