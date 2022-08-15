@@ -17,5 +17,13 @@
         "path": "./themes/ASP-Theme-color-theme.json"
       }
     ]
-  }
+  },
+  "keywords": [
+    "theme",
+    "syntax",
+    "color",
+    "vscode"
+  ],
+  "author": "aspdev",
+  "license": "ISC"
 }
