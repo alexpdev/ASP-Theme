@@ -24,6 +24,12 @@
     "color",
     "vscode"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/alexpdev/ASP-Theme.git"
+  },
   "author": "aspdev",
-  "license": "ISC"
+  "email": "aspdev@pm.me",
+  "homepage": "https://github.com/alexpdev/ASP-Theme#readme",
+  "license": "Apache Software License"
 }
