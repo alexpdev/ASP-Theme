@@ -2,9 +2,16 @@
   "name": "asp-theme",
   "displayName": "(ASP Theme)",
   "description": "(Theme for the ages!)",
+  "publisher": "alexpdev",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.70.0"
+  },
+  "icon": "vscode-asp-theme.png",
+  "author": {
+    "name": "Alex",
+    "email": "alexpdev@protonmail.com",
+    "url": "https://github.com/alexpdev"
   },
   "categories": [
     "Themes"
@@ -28,8 +35,6 @@
     "type": "git",
     "url": "https://github.com/alexpdev/ASP-Theme.git"
   },
-  "author": "aspdev",
-  "email": "aspdev@pm.me",
   "homepage": "https://github.com/alexpdev/ASP-Theme#readme",
   "license": "Apache Software License"
 }
