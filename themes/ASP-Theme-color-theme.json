@@ -1504,6 +1504,15 @@
 			}
 		},
 		{
+			"name": "Python Comment Number Sign",
+			"scope": [
+				"comment.line.number-sign.python"
+			],
+			"settings": {
+				"foreground": "#6c88e4"
+			}
+		},
+		{
 			"name": "Assertion operators",
 			"scope": [
 				"punctuation.definition.group.assertion.regexp",
@@ -1560,7 +1569,7 @@
 				"string.quoted.docstring.multi.python constant.character.escape"
 			],
 			"settings": {
-				"foreground": "#805008"
+				"foreground": "#a86d13"
 			}
 		},
 		{
